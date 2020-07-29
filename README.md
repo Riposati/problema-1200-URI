@@ -1,3 +1,5 @@
+#Problema 1200 URI
+
 Operações em ABP I
 
 Marcela recebeu como trabalho de Algoritmos a tarefa de fazer um programa que implemente uma Árvore Binária de Pesquisa (ou Busca). O Programa deve aceitar os seguintes comandos:
@@ -16,24 +18,3 @@ Obs: Considere que não serão inseridos elementos repetidos na árvore.
 
 Saída
 Cada linha de entrada, com exceção das linhas que contém o comando "I", deve produzir uma linha de saída. A saída deve ser de acordo com o exemplo fornecido abaixo. Não deve haver espaço em branco após o último caractere de cada linha, caso contrário, sua submissão receberá Presentation Error.
-
-Exemplo de Entrada
-I c
-I f
-I a
-I h
-INFIXA
-PREFIXA
-POSFIXA
-P z
-P h
-I g
-INFIXA
-
-Exemplo de Saída
-a c f h
-c a f h
-a h f c
-z nao existe
-h existe
-a c f g h
