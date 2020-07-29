@@ -1,5 +1,3 @@
-#Problema 1200 URI
-
 Operações em ABP I
 
 Marcela recebeu como trabalho de Algoritmos a tarefa de fazer um programa que implemente uma Árvore Binária de Pesquisa (ou Busca). O Programa deve aceitar os seguintes comandos:
